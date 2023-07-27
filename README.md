@@ -11,3 +11,6 @@ allowing sorting by user and tasks.
 How to launch:
 run the java project called StudentManagementSystem 
 Open your browser and type in "http://localhost:8080/students"
+
+Why I chose the selection of programming language and framework:
+Java and HTML are commonly used together in web development. Java is utilized for backend logic, handling business processes, and interacting with databases. HTML, on the other hand, structures the content of web pages, defining the UI and content presentation. They are integrated using web frameworks like Spring or JSF, enabling dynamic web pages. This combination facilitates full-stack development, reusability, and modularity. Java and HTML have broad adoption and community support, making them powerful tools for building interactive and scalable web applications with a clear separation of concerns.
